@@ -1,0 +1,6 @@
+ctrl shift p -> dart project
+1. Encapsulation berarti mengkapsulasi data untuk menyembunyikan data penting, intinya membungkus data agar tidak bisa diakses dari luar
+2. Mixin mirip seperti interface tapi bisa di inheritance tanpa dioverride, menggunakan 'with'
+3. Fungsi di kelas abstrak wajib diimplementasikan dianaknya
+4. inheritance pake extend, interface implements, mixin with
+5. inheritance mewariskan behavior, interface memaksakan behavior dan wajib di override, mixin menambahkan behavior yang dimiliki mixin.  Sebuah class dapat implements dan mixin lebih dari satu.
